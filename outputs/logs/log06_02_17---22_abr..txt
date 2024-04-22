@@ -1,0 +1,10 @@
+[18_02_17] - [ERROR][WisukiApp]: [Error al esperar a que el elemento Located by By.chained({AppiumBy.androidUIAutomator: new UiSelector().text('Wisuki')})  sea visible]
+[18_02_39] - [ERROR][WisukiApp]: [Error al esperar a que el elemento Located by By.chained({AppiumBy.androidUIAutomator: new UiSelector().text('FAVORITOS')})  sea visible]
+[18_03_01] - [ERROR][WisukiApp]: [Error al esperar a que el elemento Located by By.chained({AppiumBy.androidUIAutomator: new UiSelector().text('CERCANOS')})  sea visible]
+[18_03_21] - [ERROR][WisukiApp]: [Error al esperar a que el elemento Located by By.chained({AppiumBy.androidUIAutomator: new UiSelector().text('PRIVADOS')})  sea visible]
+[18_03_21] - [OK]: WAIT FOR MAIN PAGE IT IS CORRECT
+[18_03_44] - [ERROR][WisukiApp_Search]: [Error al esperar a que el elemento Located by By.chained({AppiumBy.androidUIAutomator: new UiSelector().resourceId('com.coolz.wisuki:id/action_search')})  sea visible]
+[18_03_46] - [ERROR][WisukiApp_Search]: [Error al dar click en el elemento  [ <small>Click elemento BTN_SEARCH</small> ] ]
+[18_04_14] - [ERROR][WisukiApp]: [Error al esperar a que el elemento Located by By.chained({AppiumBy.androidUIAutomator: new UiSelector().text('Wisuki')})  sea visible]
+[18_04_36] - [ERROR][WisukiApp]: [Error al esperar a que el elemento Located by By.chained({AppiumBy.androidUIAutomator: new UiSelector().text('FAVORITOS')})  sea visible]
+[18_04_56] - [ERROR][WisukiApp]: [Error al esperar a que el elemento Located by By.chained({AppiumBy.androidUIAutomator: new UiSelector().text('CERCANOS')})  sea visible]

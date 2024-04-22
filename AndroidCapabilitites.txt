@@ -1,0 +1,10 @@
+{
+  "platformName": "Android",
+  "appium:automationName": "uiautomator2",
+  "appium:udid": "25261JEGR18580",
+  "appium:platformVersion": "14",
+  "appium:noReset": true,
+  "appium:appPackage": "com.coolz.wisuki",
+  "appium:appActivity": "com.coolz.wisuki.activities.MainActivity",
+  "appium:appWaitDuration": 20000
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Regression Google">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="plaftorm" value="windows"/>
+    <test verbose="2" preserve-order="true" name="C:/Users/ismam/Desktop/QA (AUTOMATION ENGEENIERE)/workspace-intellij-qa/java-core-web-automation-bdd-parallel">
+        <classes>
+            <class name="tests.Google_SearchShopping">
+                <methods>
+                    <include name="searchGoogleShopping"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+    <suite name="All Android Test Suite">
+    <parameter name="browser" value="android"/>
+    <parameter name="plaftorm" value="windows"/>
+        <test verbose="2" preserve-order="true" name="C:/Users/ismam/Desktop/QA/workspace-intellij-qa/java-core-android-ios-auto-tdd/src/test/java/tests/android/WisukiApp_Search.java">
+            <classes>
+                <class name="tests.android.WisukiApp_Search">
+                    <methods>
+                        <include name="wisukiAppSerch"/>
+                    </methods>
+                </class>
+            </classes>
+        </test>
+    <test verbose="2" preserve-order="true" name="C:/Users/ismam/Desktop/QA/workspace-intellij-qa/java-core-android-ios-auto-tdd/src/test/java/tests/android/WisukiApp.java">
+        <classes>
+            <class name="tests.android.WisukiApp">
+                <methods>
+                    <include name="wisukiApp"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

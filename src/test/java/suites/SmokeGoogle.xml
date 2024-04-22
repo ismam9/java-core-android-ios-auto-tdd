@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Smoke Google">
+    <parameter name="browser" value=""/>
+    <parameter name="plaftorm" value=""/>
+    <test verbose="2" preserve-order="true" name="C:/Users/ismam/Desktop/QA (AUTOMATION ENGEENIERE)/workspace-intellij-qa/java-core-web-automation-bdd-parallel">
+        <classes>
+            <class name="tests.Google_Search">
+                <methods>
+                    <include name="searchGoogle"/>
+                </methods>
+            </class>
+            <class name="tests.Google_SearchImages">
+                <methods>
+                    <include name="searchGoogleImages"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

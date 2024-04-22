@@ -1,0 +1,1 @@
+[18_12_21] - [ERROR][WisukiApp]: [Error al esperar a que el elemento Located by By.xpath: //android.widget.TextView[@text="Wisuki"]  sea visible]

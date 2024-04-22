@@ -1,0 +1,17 @@
+[18_10_01] - [OK][WisukiApp]: [Se ha esperado a que el elemento Located by By.xpath: //android.widget.TextView[@text="Wisuki"]  sea visible]
+[18_10_01] - [OK][WisukiApp]: [Se ha esperado a que el elemento Located by By.xpath: //android.widget.TextView[@text="FAVORITOS"]  sea visible]
+[18_10_02] - [OK][WisukiApp]: [Se ha esperado a que el elemento Located by By.xpath: //android.widget.TextView[@text="CERCANOS"]  sea visible]
+[18_10_02] - [OK][WisukiApp]: [Se ha esperado a que el elemento Located by By.xpath: //android.widget.TextView[@text="PRIVADOS"]  sea visible]
+[18_10_02] - [OK]: WAIT FOR MAIN PAGE IT IS CORRECT
+[18_10_05] - [OK][WisukiApp_Search]: [Se ha esperado a que el elemento Located by By.xpath: //android.widget.TextView[@content-desc="Buscar"]  sea visible]
+[18_10_06] - [OK][WisukiApp_Search]: [Click en el elemento  [ <small>Click elemento BTN_SEARCH</small> ] ]
+[18_10_06] - [OK]: SE HA HECHO CLICK CORRECTAMENTE EN EL btn_search
+[18_10_09] - [OK][WisukiApp_Search]: [Se ha esperado a que el elemento Located by By.xpath: //android.widget.AutoCompleteTextView[@resource-id="com.coolz.wisuki:id/search_src_text"]  sea visible]
+[18_10_10] - [OK]: Se ha fallado al enviar 'Pozo Alcon' al input_search
+[18_10_10] - [OK]: Basic Search on Wisuki App correctly done
+[18_10_37] - [ERROR][WisukiApp]: [Error al esperar a que el elemento Located by By.xpath: //android.widget.TextView[@text="Wisuki"]  sea visible]
+[18_10_38] - [OK][WisukiApp]: [Se ha esperado a que el elemento Located by By.xpath: //android.widget.TextView[@text="FAVORITOS"]  sea visible]
+[18_10_38] - [OK][WisukiApp]: [Se ha esperado a que el elemento Located by By.xpath: //android.widget.TextView[@text="CERCANOS"]  sea visible]
+[18_10_38] - [OK][WisukiApp]: [Se ha esperado a que el elemento Located by By.xpath: //android.widget.TextView[@text="PRIVADOS"]  sea visible]
+[18_10_38] - [OK]: WAIT FOR MAIN PAGE IT IS CORRECT
+[18_10_38] - [OK]: Basic Access on Wisuki App correctly done

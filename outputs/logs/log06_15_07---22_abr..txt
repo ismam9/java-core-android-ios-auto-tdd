@@ -1,0 +1,1 @@
+[18_15_07] - [OK][WisukiApp]: [Se ha esperado a que el elemento Located by By.xpath: //android.widget.TextView[@text="Wisuki"]  sea visible]
